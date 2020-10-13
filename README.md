@@ -1,7 +1,6 @@
-# Heuristic-Evaluation
+# Streaming Platforms Variability
 DH150: User Experience and Design Assignment 01
 
-# Streaming Platforms Variability
 
 ## Hulu
 https://www.hulu.com/
