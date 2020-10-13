@@ -19,8 +19,10 @@ https://www12.9anime.to/
 ## Analysis
 #### 1. VISIBILITY OF SYSTEM STATUS
 Visibility of system status is how well the app/web gives feedback about its progress of downloading/uploading/etc. Since I am analyzing streaming services, this heuristic would be demonstrated as a loading icon for the videos streaming capacity. 
+
 9anime shows its loading status by an animated dial and a grey bar along the videos timeline. Having both these icons demonstrate whether or not there is no connection or if connection is just slow. The dial will spin before the video plays, if it continues to spin I know my wifi is down or I have no connection. The grey bar on the time shows the loading speed, so I may have slow connection but the video will play. The dial is in the middle of the screen and  is animated which gives me a sense of progress. It could spin for an hour but I would feel as if the program is “thinking” or solving the problem. **(1)**
-Hulu has a loading icon that appears on the screen of the center. The icon is animated, giving a sense of ease as well. I have had issues where the video will begin to play but the icon will not disappear. Since the icon is in the middle of the screen it completely draws the attention if the video continues to play. Hulu doesn't have a loading progress bar on the timeline, however this is not critical. (2)
+
+Hulu has a loading icon that appears on the screen of the center. The icon is animated, giving a sense of ease as well. I have had issues where the video will begin to play but the icon will not disappear. Since the icon is in the middle of the screen it completely draws the attention if the video continues to play. Hulu doesn't have a loading progress bar on the timeline, however this is not critical. **(2)**
 
 #### 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
 Match between the system and the real world are critical to navigating a site. This heuristics draws from knowledge we have of the real world to understand how the site works.
