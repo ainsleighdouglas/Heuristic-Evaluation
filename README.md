@@ -81,6 +81,6 @@ Hulu could do a better job of notifying the user of errors. I have had network p
 #### 10. HELP AND DOCUMENTATION
 Help and documentation is how easily a user can find help when a problem occurs.
 
-9anime’s help and contact are found at the bottom of the page which is consistent with other sites. However, help is fairly small and limited, which gives the user the idea that help isn’t reliable. **(1)**
+9anime’s help and contact are found at the bottom of the page which is consistent with other sites. However, help is fairly small and limited, which gives the user the idea that help isn’t reliable. **(2)**
 
 Hulu’s help option is at the bottom of the screen which is a fairly long scroll to get down to. The help button is small but it does lead the user to an entire help desk with a variety of pre answered questions. **(2)**
